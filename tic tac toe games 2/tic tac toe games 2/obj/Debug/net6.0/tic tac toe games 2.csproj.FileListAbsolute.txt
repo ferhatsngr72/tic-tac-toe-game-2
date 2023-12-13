@@ -1,0 +1,14 @@
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\bin\Debug\net6.0\tic tac toe games 2.exe
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\bin\Debug\net6.0\tic tac toe games 2.deps.json
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\bin\Debug\net6.0\tic tac toe games 2.runtimeconfig.json
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\bin\Debug\net6.0\tic tac toe games 2.dll
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\bin\Debug\net6.0\tic tac toe games 2.pdb
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\obj\Debug\net6.0\tic tac toe games 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\obj\Debug\net6.0\tic tac toe games 2.AssemblyInfoInputs.cache
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\obj\Debug\net6.0\tic tac toe games 2.AssemblyInfo.cs
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\obj\Debug\net6.0\tic tac toe games 2.csproj.CoreCompileInputs.cache
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\obj\Debug\net6.0\tic tac toe games 2.dll
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\obj\Debug\net6.0\refint\tic tac toe games 2.dll
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\obj\Debug\net6.0\tic tac toe games 2.pdb
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\obj\Debug\net6.0\tic tac toe games 2.genruntimeconfig.cache
+C:\Users\ferha\OneDrive\Masaüstü\tic tac toe games 2\tic tac toe games 2\obj\Debug\net6.0\ref\tic tac toe games 2.dll
